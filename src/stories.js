@@ -69,3 +69,5 @@ storiesOf('ECharts Pie', module)
 `
     }))
 
+
+storiesOf("Antv Pie", module)

@@ -9,6 +9,7 @@
     "storybook": "start-storybook -p 9001 -c .storybook"
   },
   "dependencies": {
+    "@antv/g2": "^3.5.9",
     "core-js": "^3.3.2",
     "echarts": "^4.4.0",
     "vue": "^2.6.10",
