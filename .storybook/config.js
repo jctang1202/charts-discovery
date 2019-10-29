@@ -6,6 +6,7 @@ import 'echarts/lib/chart/pie'
 import 'echarts/lib/component/tooltip'
 import 'echarts/lib/component/legend'
 import 'echarts/lib/component/markLine'
+import 'echarts/lib/component/visualMap'
 
 
 Vue.component('e-charts', ECharts);
